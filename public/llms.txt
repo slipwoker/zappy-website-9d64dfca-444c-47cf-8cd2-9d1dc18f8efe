@@ -1,0 +1,71 @@
+# חבורה לא זורמת — Generative Engine Optimization Map
+
+> A fun and persuasive social website dedicated to a group of 5 kids — Gaya, Lin, Talia, Nitai, and Uri (2 boys and 3 girls) — who have grown apart and don't meet or hang out much anymore. The site's mission is to motivate and inspire the group to reconnect and spend more time together, using emotional and engaging content that reminds them of their friendship and encourages them to make plans.
+
+---
+
+## Pages
+
+### בית
+https://-9d64dfca.zappy5.app
+גאיה, לין, טליה, ניתאי ואורי היו חברים בלתי נפרדים, אבל הזמן עשה את שלו. הגיע הרגע לעורר מחדש את החיבור, לתכנן מפגשים וליצור זיכרונות חדשים. הצטרפו למשימה להחזיר את החבורה לפעולה!
+
+### תודה רבה - חבורה לא זורמת
+https://-9d64dfca.zappy5.app/thank-you
+תודה על פנייתך לצוות חבורה לא זורמת. קיבלנו את ההודעה ונחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9d64dfca.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9d64dfca.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9d64dfca.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-9d64dfca.zappy5.app
+- Endpoint: https://-9d64dfca.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חבורה לא זורמת
+A fun and persuasive social website dedicated to a group of 5 kids — Gaya, Lin, Talia, Nitai, and Uri (2 boys and 3 girls) — who have grown apart and don't meet or hang out much anymore. The site's mission is to motivate and inspire the group to reconnect and spend more time together, using emotional and engaging content that reminds them of their friendship and encourages them to make plans.
+
+## Target Audience
+- חבורת חברים של 5 ילדים - גאיה, לין, טליה, ניתאי ואורי
+- קבוצת חברים של חמשת הילדים
+- קבוצות חברתיות פעילות
+- הורים לילדים חברתיים
+
+## Industry
+Social / Friend Group
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-9d64dfca.zappy5.app/sitemap.xml
+- Robots: https://-9d64dfca.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-9d64dfca.zappy5.app/llms-full.txt
